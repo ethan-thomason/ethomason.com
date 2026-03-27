@@ -1,0 +1,21 @@
+baseURL = "https://ethomason.com/"
+languageCode = "en-us"
+title = "Ethan Thomason"
+theme = "PaperMod"
+
+[params]
+  description = "Security research, OT/ICS, and honeypot findings"
+  author = "Ethan Thomason"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2

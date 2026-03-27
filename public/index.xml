@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ethan Thomason</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Ethan Thomason</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Ethan Thomason, a systems integrator and security researcher based in
+Northern California. I run CedarTech, specializing in Ignition/SCADA
+and OT/ICS security.&lt;/p&gt;
+&lt;p&gt;This blog documents findings from my threat intelligence research — honeypot
+captures, malware analysis, and observations from the noisier corners of the
+internet.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Two Threat Actors, One Honeypot, 90 Minutes</title>
+      <link>http://localhost:1313/posts/redtail-outlaw-turf-war/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/redtail-outlaw-turf-war/</guid>
+      <description>Redtail cryptominer and Outlaw Group captured back-to-back within 90 minutes of honeypot deployment, with the second actor specifically evicting the first.</description>
+    </item>
+  </channel>
+</rss>
